@@ -1,0 +1,32 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Áudios
+*.wav
+*.mp3
+*.m4a
+*.mp4
+
+# Saídas do programa
+outputs/
+
+# Chaves
+.env
+
+# VS Code
+.vscode/
