@@ -23,7 +23,8 @@ __pycache__/
 *.mp4
 
 # Saídas do programa
-outputs/
+outputs/*
+!outputs/README.md
 
 # Chaves
 .env
