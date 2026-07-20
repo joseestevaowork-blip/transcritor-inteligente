@@ -15,7 +15,7 @@ with st.sidebar:
 
 @st.cache_resource
 def load_model():
-    return whisper.load_model("large")
+    return whisper.load_model("medium")
 
 model = load_model()
 
